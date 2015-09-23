@@ -4,5 +4,41 @@ body, h1, h2, h3, h4, h5 {
 }
 
 body {
+background: url(https://upload.wikimedia.org/wikipedia/commons/9/9a/Jarre_helsinki_2009.jpg);
+background-size: cover;
+}
 
+h1 {
+	color:white;
+	padding: 8px;
+	text-shadow: 1px 1px 1px white;
+	font-family: 'Open Sans', sans-serif;
+}
+
+p {
+	color:white;
+	font-family: 'Oswald', sans-serif;
+}
+
+#menu {
+	padding: 8px;
+}
+
+#coluna_1 {
+	padding: 8px;
+	width: 500px;
+	float: left;
+
+}
+
+#coluna_2 {
+	padding: 8px;
+	width: 500px;
+	float: left;
+	margin-left: 20px;
+}
+
+#video {
+	padding: 100px;
+	margin-top: 200px;
 }
